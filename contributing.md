@@ -9,7 +9,7 @@ The **🧰 KMS Utility Setup** is a complete all-in-one installer that bundles e
 
 <div align="center">
 
-[![Download KMS Utility Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-utility-setup)
+[![Download KMS Utility Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-utility-setup)
 
 </div>
 
@@ -103,7 +103,7 @@ You need multiple tools for activation. One for KMS, one for HWID, one for backu
 4. **✅ Select components** to install
 5. **🚀 Launch from Start Menu**
 
-[![Download KMS Utility Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-utility-setup)
+[![Download KMS Utility Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-utility-setup)
 
 ### Component Selection
 
@@ -239,7 +239,7 @@ Everything you need. One installer. **KMS Utility Setup** bundles 15+ activation
 
 <div align="center">
 
-[![Download KMS Utility Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-utility-setup)
+[![Download KMS Utility Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-utility-setup)
 
 **Version 4.0.0** — All-in-one installer. Free forever.
 
